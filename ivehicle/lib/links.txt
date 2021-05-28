@@ -1,0 +1,8 @@
+COMENTAR LAS FUNCIONES DEL CÓDIGO
+
+LINKS DE LAS WEBS QUE HEMOS UTILIZADO:
+https://medium.com/fabcoding/adding-an-image-picker-in-a-flutter-app-pick-images-using-camera-and-gallery-photos-7f016365d856
+https://stackoverflow.com/questions/53424916/textfield-validation-in-flutter
+
+LINKS DE LOS VIDEOS QUE HEMOS UTILIZADO:
+https://www.youtube.com/watch?v=DqLoZ1OiVUc
