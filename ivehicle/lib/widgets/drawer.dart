@@ -84,7 +84,7 @@ class HomePageDrawer extends StatelessWidget {
               color: Color(0xff0367A6),
               child: ListTile(
                 leading: Icon(
-                  Icons.list,
+                  Icons.event,
                   color: Colors.white,
                 ),
                 title: Text(

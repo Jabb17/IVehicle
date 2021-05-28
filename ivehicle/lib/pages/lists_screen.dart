@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:ivehicle/pages/lists_pages/eventos.dart';
-import 'package:ivehicle/pages/lists_pages/rutas.dart';
+import 'package:ivehicle/pages/lists_pages/events.dart';
+import 'package:ivehicle/pages/lists_pages/routes.dart';
 
 class ListsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: new AppBar(
-        title: Text("Listas"),
+        title: Text("Events & Routes"),
         centerTitle: true,
       ),
       backgroundColor: Color(0xff0367A6),
@@ -31,8 +31,8 @@ class ListsScreen extends StatelessWidget {
                     mainAxisSize: MainAxisSize.min,
                     children: <Widget>[
                       Text(
-                        "Rutas",
-                        style: new TextStyle(fontSize: 17.0),
+                        "Routes",
+                        style: new TextStyle(fontSize: 37.0),
                       ),
                     ],
                   ),
@@ -54,8 +54,8 @@ class ListsScreen extends StatelessWidget {
                     mainAxisSize: MainAxisSize.min,
                     children: <Widget>[
                       Text(
-                        "Eventos",
-                        style: new TextStyle(fontSize: 17.0),
+                        "Events",
+                        style: new TextStyle(fontSize: 37.0),
                       ),
                     ],
                   ),

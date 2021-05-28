@@ -107,33 +107,40 @@ class _HomeOptionState extends State<HomeOption> {
           ),
           child: Column(
             children: [
+              SizedBox(
+                width: 150,
+              ),
               Image.network(
-                  "https://ivehicleproject.000webhostapp.com/imgs/golf_gti_MK7.jpg"),
+                  "http://ivehicleproject.000webhostapp.com/imgs/golf_gti_MK7.jpg"),
               Row(
                 children: [
                   SizedBox(
                     width: 150,
                   ),
-                  FavoriteButton(
-                    isFavorite: true,
-                    valueChanged: (_isFavorite) {
-                      print('Is Favorite : $_isFavorite');
-                    },
-                  ),
-                  Container(
-                    child: IconButton(
-                      icon: Icon(Icons.comment),
-                      onPressed: () {
-                        print("Openned comment screen");
-                        Navigator.push(
-                          context,
-                          MaterialPageRoute(
-                            builder: (BuildContext context) {
-                              return CommentScreen();
-                            },
-                          ),
-                        );
+                  Center(
+                    child: FavoriteButton(
+                      isFavorite: true,
+                      valueChanged: (_isFavorite) {
+                        print('Is Favorite : $_isFavorite');
                       },
+                    ),
+                  ),
+                  Center(
+                    child: Container(
+                      child: IconButton(
+                        icon: Icon(Icons.comment),
+                        onPressed: () {
+                          print("Openned comment screen");
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (BuildContext context) {
+                                return CommentScreen();
+                              },
+                            ),
+                          );
+                        },
+                      ),
                     ),
                   ),
                   Padding(
@@ -141,9 +148,6 @@ class _HomeOptionState extends State<HomeOption> {
                     child: SizedBox(
                       height: 70,
                     ),
-                  ),
-                  SizedBox(
-                    width: 50,
                   ),
                 ],
               ),
@@ -180,6 +184,9 @@ class _HomeOptionState extends State<HomeOption> {
           ),
           child: Column(
             children: [
+              SizedBox(
+                width: 150,
+              ),
               Image.network(
                   "https://ivehicleproject.000webhostapp.com/imgs/a45_amg.jpg"),
               Row(
@@ -218,9 +225,6 @@ class _HomeOptionState extends State<HomeOption> {
                     child: SizedBox(
                       height: 70,
                     ),
-                  ),
-                  SizedBox(
-                    width: 50,
                   ),
                 ],
               ),
@@ -450,6 +454,9 @@ class _HomeOptionState extends State<HomeOption> {
           ),
           child: Column(
             children: [
+              SizedBox(
+                width: 150,
+              ),
               Image.network(
                   "https://ivehicleproject.000webhostapp.com/imgs/audi_r8.jpeg"),
               Row(
@@ -489,9 +496,6 @@ class _HomeOptionState extends State<HomeOption> {
                       height: 70,
                     ),
                   ),
-                  SizedBox(
-                    width: 50,
-                  ),
                 ],
               ),
             ],
@@ -508,6 +512,9 @@ class _HomeOptionState extends State<HomeOption> {
           ),
           child: Column(
             children: [
+              SizedBox(
+                width: 150,
+              ),
               Image.network(
                   "https://ivehicleproject.000webhostapp.com/imgs/mustang.jpeg"),
               Row(
@@ -546,9 +553,6 @@ class _HomeOptionState extends State<HomeOption> {
                     child: SizedBox(
                       height: 70,
                     ),
-                  ),
-                  SizedBox(
-                    width: 50,
                   ),
                 ],
               ),
@@ -833,16 +837,15 @@ class _SearchOptionPageState extends State<SearchOptionPage> {
   Widget build(BuildContext context) {
     return Container(
       child: Scaffold(
-        // TODO CAMBIAR LOS COLORES DE LA LETRA YA QUE CUANDO BUSCAS
-        // TODO NO SE VE LO QUE ESTÁS ESCRIBIENDO
-        // TODO SI SIGUE SIN VERSE LO QUE ESTÁS ESCRIBIENDO, VOLVER A COPIAR EL CODIGO DEL ZIP
-        appBar: AppBar(
+        // TODO SI SE QUITA LA APPBAR SI QUE SE VE LO QUE ESTÁS ESCRIBIENDO
+        /*appBar: AppBar(
           title: Text(
             'Test',
             style: TextStyle(color: Colors.black),
           ),
+          backgroundColor: Colors.white,
           centerTitle: true,
-        ),
+        ),*/
         body: Column(
           children: <Widget>[
             Padding(

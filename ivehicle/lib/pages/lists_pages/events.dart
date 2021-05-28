@@ -15,42 +15,42 @@ class EventosScreen extends StatelessWidget {
         child: GridView.count(
           crossAxisCount: 1,
           children: <Widget>[
-            Card(
-              margin: EdgeInsets.all(90.0),
-              child: InkWell(
-                splashColor: Color(0xff03738C),
-                child: Center(
-                  child: Column(
-                    mainAxisSize: MainAxisSize.min,
-                    children: [
-                      GestureDetector(
-                        onTap: _launchEvento1,
-                        child: Text(
+            GestureDetector(
+              onTap: _launchEvento1,
+              child: Card(
+                margin: EdgeInsets.all(90.0),
+                child: InkWell(
+                  splashColor: Color(0xff03738C),
+                  child: Center(
+                    child: Column(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Text(
                           "Navarra classic festival",
-                          style: new TextStyle(fontSize: 17.0),
+                          style: new TextStyle(fontSize: 20.0),
                         ),
-                      ),
-                    ],
+                      ],
+                    ),
                   ),
                 ),
               ),
             ),
-            Card(
-              margin: EdgeInsets.all(90.0),
-              child: InkWell(
-                splashColor: Color(0xff03738C),
-                child: Center(
-                  child: Column(
-                    mainAxisSize: MainAxisSize.min,
-                    children: [
-                      GestureDetector(
-                        onTap: _launchEvento2,
-                        child: Text(
+            GestureDetector(
+              onTap: _launchEvento2,
+              child: Card(
+                margin: EdgeInsets.all(90.0),
+                child: InkWell(
+                  splashColor: Color(0xff03738C),
+                  child: Center(
+                    child: Column(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Text(
                           "Car meeting",
-                          style: new TextStyle(fontSize: 17.0),
+                          style: new TextStyle(fontSize: 20.0),
                         ),
-                      ),
-                    ],
+                      ],
+                    ),
                   ),
                 ),
               ),

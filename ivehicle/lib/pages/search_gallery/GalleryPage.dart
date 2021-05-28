@@ -23,7 +23,6 @@ class _GalleryPageState extends State<GalleryPage> {
   List<dynamic> hits = [];
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     getData(widget.keyWord);
     _scrollController.addListener(() {
@@ -38,7 +37,6 @@ class _GalleryPageState extends State<GalleryPage> {
 
   @override
   void dispose() {
-    // TODO: implement dispose
     super.dispose();
     _scrollController.dispose();
   }
@@ -96,17 +94,14 @@ class _GalleryPageState extends State<GalleryPage> {
                               child: Row(
                                 mainAxisAlignment: MainAxisAlignment.start,
                                 children: <Widget>[
-                                  //   likes
                                   Icon(Icons.favorite_border),
                                   Text(
                                     " ${hits[index]['likes']} ".toString(),
                                   ),
-                                  // favorites
                                   Icon(Icons.star_border),
                                   Text(
                                     " ${hits[index]['favorites']} ".toString(),
                                   ),
-                                  // comments
                                   Icon(Icons.chat_bubble_outline),
                                   Text(
                                     " ${hits[index]['comments']} ".toString(),
@@ -137,7 +132,6 @@ class _GalleryPageState extends State<GalleryPage> {
     )
         .then((onResp) {
       setState(() {
-        // hits=json.decode(onResp.body);
         this.imagesDate = json.decode(onResp.body);
         hits.addAll(imagesDate['hits']);
         if (imagesDate['totalHits'] % size == 0)
