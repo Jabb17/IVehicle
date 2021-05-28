@@ -3,7 +3,6 @@ import 'package:ivehicle/pages/settings_pages/help_screen.dart';
 import 'package:ivehicle/pages/settings_pages/change_username.dart';
 import 'package:ivehicle/pages/settings_pages/change_password.dart';
 import 'package:ivehicle/pages/settings_pages/terms_screen.dart';
-import 'package:ivehicle/pages/login_pages/signin.dart';
 import 'package:settings_ui/settings_ui.dart';
 
 import '../main.dart';
