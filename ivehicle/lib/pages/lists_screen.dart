@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:ivehicle/pages/listas_pages/eventos.dart';
-import 'package:ivehicle/pages/listas_pages/rutas.dart';
+import 'package:ivehicle/pages/lists_pages/eventos.dart';
+import 'package:ivehicle/pages/lists_pages/rutas.dart';
 
 class ListsScreen extends StatelessWidget {
   @override
