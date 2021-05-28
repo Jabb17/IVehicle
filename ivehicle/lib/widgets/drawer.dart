@@ -88,7 +88,7 @@ class HomePageDrawer extends StatelessWidget {
                   color: Colors.white,
                 ),
                 title: Text(
-                  "LISTS",
+                  "EVENTS & ROUTES",
                   style: TextStyle(color: Colors.white),
                 ),
                 trailing: Icon(
