@@ -6,6 +6,7 @@ import 'package:ivehicle/pages/settings_pages/terms_screen.dart';
 import 'package:ivehicle/pages/login_pages/signin.dart';
 import 'package:settings_ui/settings_ui.dart';
 
+import '../main.dart';
 import 'settings_pages/theme_screen.dart';
 
 class SettingsScreen extends StatefulWidget {
@@ -82,7 +83,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
               onPressed: (context) {
                 Navigator.of(context).push(
                   MaterialPageRoute(
-                    builder: (_) => SignInPage(),
+                    builder: (_) => MyHomePage(),
                   ),
                 );
               },

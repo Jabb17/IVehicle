@@ -833,6 +833,12 @@ class SearchOptionPage extends StatefulWidget {
 class _SearchOptionPageState extends State<SearchOptionPage> {
   String keyWord = "";
   TextEditingController editingController = TextEditingController();
+
+  void initState() {
+    super.initState();
+    print('Calling initState for SearchOption');
+  }
+
   @override
   Widget build(BuildContext context) {
     return Container(

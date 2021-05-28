@@ -4,10 +4,6 @@
         android:label="ivehicle"
         android:icon="@mipmap/ic_launcher">
 
-        <!-- TODO IF WE DO THE MAP, DISCOMMENT THIS -->
-        <!--<meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDVVkSUpAN2DFG0OGdd5xz5gbzRn0e_FOM"/>-->
-
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

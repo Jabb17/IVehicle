@@ -4,6 +4,8 @@ import 'package:ivehicle/pages/lists_screen.dart';
 import 'package:ivehicle/pages/settings.dart';
 import 'package:ivehicle/pages/login_pages/signin.dart';
 
+import '../main.dart';
+
 class HomePageDrawer extends StatelessWidget {
   const HomePageDrawer({
     Key key,
@@ -127,7 +129,7 @@ class HomePageDrawer extends StatelessWidget {
                     context,
                     MaterialPageRoute(
                       builder: (BuildContext context) {
-                        return SignInPage();
+                        return MyHomePage();
                       },
                     ),
                   );
