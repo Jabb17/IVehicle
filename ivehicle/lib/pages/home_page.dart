@@ -111,6 +111,64 @@ class _HomeOptionState extends State<HomeOption> {
                 width: 150,
               ),
               Image.network(
+                  "https://ivehicleproject.000webhostapp.com/imgs/audi_a7.jpg"),
+              Row(
+                children: [
+                  SizedBox(
+                    width: 150,
+                  ),
+                  Center(
+                    child: FavoriteButton(
+                      isFavorite: false,
+                      valueChanged: (_isFavorite) {
+                        print('Is Favorite : $_isFavorite');
+                      },
+                    ),
+                  ),
+                  Center(
+                    child: Container(
+                      child: IconButton(
+                        icon: Icon(Icons.comment),
+                        onPressed: () {
+                          print("Openned comment screen");
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (BuildContext context) {
+                                return CommentScreen();
+                              },
+                            ),
+                          );
+                        },
+                      ),
+                    ),
+                  ),
+                  Padding(
+                    padding: EdgeInsets.symmetric(horizontal: 50.0),
+                    child: SizedBox(
+                      height: 70,
+                    ),
+                  ),
+                ],
+              ),
+            ],
+          ),
+        ),
+        Container(
+          width: 300,
+          height: 360,
+          decoration: BoxDecoration(
+            border: Border.all(
+              color: Colors.black,
+              width: 1,
+            ),
+          ),
+          child: Column(
+            children: [
+              SizedBox(
+                width: 150,
+              ),
+              Image.network(
                   "http://ivehicleproject.000webhostapp.com/imgs/golf_gti_MK7.jpg"),
               Row(
                 children: [
