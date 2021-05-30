@@ -78,9 +78,6 @@ class _HomePageState extends State<HomePage> {
   }
 }
 
-// TODO AÑADIR VIDEOS PUBLICITARIOS (VIDEO ALEIX) Y TAMBIÉN MIRAR DE AÑADIR ANUNCIOS GOOGLE
-// TODO MIRAR PUBSPEC.YAML
-
 class HomeOption extends StatefulWidget {
   @override
   _HomeOptionState createState() => _HomeOptionState();
