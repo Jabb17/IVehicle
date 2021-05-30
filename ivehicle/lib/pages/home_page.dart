@@ -177,7 +177,7 @@ class _HomeOptionState extends State<HomeOption> {
                   ),
                   Center(
                     child: FavoriteButton(
-                      isFavorite: true,
+                      isFavorite: false,
                       valueChanged: (_isFavorite) {
                         print('Is Favorite : $_isFavorite');
                       },
@@ -254,7 +254,7 @@ class _HomeOptionState extends State<HomeOption> {
                   ),
                   Center(
                     child: FavoriteButton(
-                      isFavorite: true,
+                      isFavorite: false,
                       valueChanged: (_isFavorite) {
                         print('Is Favorite : $_isFavorite');
                       },
@@ -312,7 +312,7 @@ class _HomeOptionState extends State<HomeOption> {
                   ),
                   Center(
                     child: FavoriteButton(
-                      isFavorite: true,
+                      isFavorite: false,
                       valueChanged: (_isFavorite) {
                         print('Is Favorite : $_isFavorite');
                       },
@@ -386,7 +386,7 @@ class _HomeOptionState extends State<HomeOption> {
                   ),
                   Center(
                     child: FavoriteButton(
-                      isFavorite: true,
+                      isFavorite: false,
                       valueChanged: (_isFavorite) {
                         print('Is Favorite : $_isFavorite');
                       },
@@ -444,7 +444,7 @@ class _HomeOptionState extends State<HomeOption> {
                   ),
                   Center(
                     child: FavoriteButton(
-                      isFavorite: true,
+                      isFavorite: false,
                       valueChanged: (_isFavorite) {
                         print('Is Favorite : $_isFavorite');
                       },
@@ -524,7 +524,7 @@ class _HomeOptionState extends State<HomeOption> {
                   ),
                   Center(
                     child: FavoriteButton(
-                      isFavorite: true,
+                      isFavorite: false,
                       valueChanged: (_isFavorite) {
                         print('Is Favorite : $_isFavorite');
                       },
@@ -582,7 +582,7 @@ class _HomeOptionState extends State<HomeOption> {
                   ),
                   Center(
                     child: FavoriteButton(
-                      isFavorite: true,
+                      isFavorite: false,
                       valueChanged: (_isFavorite) {
                         print('Is Favorite : $_isFavorite');
                       },
