@@ -21,14 +21,17 @@ class ChangePasswordScreen extends StatelessWidget {
 }
 
 class PasswordSetting extends StatefulWidget {
+  var passwords;
   @override
   MyCustomFormState createState() {
-    return MyCustomFormState();
+    return MyCustomFormState(passwords);
   }
 }
 
 class MyCustomFormState extends State<PasswordSetting> {
-  final _formKey = GlobalKey<FormState>();
+  final passwords;
+  var _formKey = GlobalKey<FormState>();
+  MyCustomFormState(this.passwords);
 
   @override
   Widget build(BuildContext context) {
@@ -49,7 +52,10 @@ class MyCustomFormState extends State<PasswordSetting> {
             padding: const EdgeInsets.symmetric(vertical: 16.0),
             child: ElevatedButton(
               onPressed: () {
-                if (_formKey.currentState.validate()) {}
+                if (_formKey.currentState.validate()) {
+                  _formKey = passwords;
+                  bbdd(passwords);
+                }
               },
               child: Text('Submit'),
             ),
@@ -60,7 +66,7 @@ class MyCustomFormState extends State<PasswordSetting> {
   }
 }
 
-void bbdd() async {
+void bbdd(passwords) async {
   final conn = await MySqlConnection.connect(
     ConnectionSettings(
       host: 'localhost',

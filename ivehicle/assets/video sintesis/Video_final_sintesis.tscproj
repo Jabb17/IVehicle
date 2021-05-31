@@ -18,9 +18,9 @@
   "sourceBin" : [
     {
       "id" : 1,
-      "src" : "C:\\Users\\Jabb17\\Desktop\\video sintesis\\logo_Alex.png",
+      "src" : "D:\\DAM2T\\M09_Flutter\\Git_IVehicle\\Sintesis_DAM2T\\Sintesis_DAM2T\\ivehicle\\assets\\video sintesis\\logo_Alex.png",
       "rect" : [0, 0, 1280, 853],
-      "lastMod" : "20210530T113548",
+      "lastMod" : "20210530T162801",
       "sourceTracks" : [
         {
           "range" : [0, 1],
@@ -38,9 +38,9 @@
     },
     {
       "id" : 2,
-      "src" : "C:\\Users\\Jabb17\\Desktop\\video sintesis\\1.PNG",
+      "src" : "D:\\DAM2T\\M09_Flutter\\Git_IVehicle\\Sintesis_DAM2T\\Sintesis_DAM2T\\ivehicle\\assets\\video sintesis\\1.PNG",
       "rect" : [0, 0, 369, 616],
-      "lastMod" : "20210530T113735",
+      "lastMod" : "20210530T162800",
       "sourceTracks" : [
         {
           "range" : [0, 1],
@@ -58,9 +58,9 @@
     },
     {
       "id" : 3,
-      "src" : "C:\\Users\\Jabb17\\Desktop\\video sintesis\\stucom.png",
+      "src" : "D:\\DAM2T\\M09_Flutter\\Git_IVehicle\\Sintesis_DAM2T\\Sintesis_DAM2T\\ivehicle\\assets\\video sintesis\\stucom.png",
       "rect" : [0, 0, 1644, 438],
-      "lastMod" : "20210530T114029",
+      "lastMod" : "20210530T162801",
       "sourceTracks" : [
         {
           "range" : [0, 1],
@@ -78,9 +78,9 @@
     },
     {
       "id" : 4,
-      "src" : "C:\\Users\\Jabb17\\Desktop\\video sintesis\\register&login.mp4",
+      "src" : "D:\\DAM2T\\M09_Flutter\\Git_IVehicle\\Sintesis_DAM2T\\Sintesis_DAM2T\\ivehicle\\assets\\video sintesis\\register&login.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20210530T120903",
+      "lastMod" : "20210530T162801",
       "sourceTracks" : [
         {
           "range" : [0, 389999998],
@@ -110,9 +110,9 @@
     },
     {
       "id" : 5,
-      "src" : "C:\\Users\\Jabb17\\Desktop\\video sintesis\\comprobacion_usuario.mp4",
+      "src" : "D:\\DAM2T\\M09_Flutter\\Git_IVehicle\\Sintesis_DAM2T\\Sintesis_DAM2T\\ivehicle\\assets\\video sintesis\\comprobacion_usuario.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20210530T121921",
+      "lastMod" : "20210530T162801",
       "sourceTracks" : [
         {
           "range" : [0, 221339997],
@@ -142,9 +142,9 @@
     },
     {
       "id" : 6,
-      "src" : "C:\\Users\\Jabb17\\Desktop\\video sintesis\\publicar_foto.mp4",
+      "src" : "D:\\DAM2T\\M09_Flutter\\Git_IVehicle\\Sintesis_DAM2T\\Sintesis_DAM2T\\ivehicle\\assets\\video sintesis\\publicar_foto.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20210530T124220",
+      "lastMod" : "20210530T162801",
       "sourceTracks" : [
         {
           "range" : [0, 274839998],
@@ -174,9 +174,9 @@
     },
     {
       "id" : 7,
-      "src" : "C:\\Users\\Jabb17\\Desktop\\video sintesis\\api_gallery.mp4",
+      "src" : "D:\\DAM2T\\M09_Flutter\\Git_IVehicle\\Sintesis_DAM2T\\Sintesis_DAM2T\\ivehicle\\assets\\video sintesis\\api_gallery.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20210530T142836",
+      "lastMod" : "20210530T162801",
       "sourceTracks" : [
         {
           "range" : [0, 336669998],
@@ -206,9 +206,9 @@
     },
     {
       "id" : 8,
-      "src" : "C:\\Users\\Jabb17\\Desktop\\video sintesis\\search_gallery.mp4",
+      "src" : "D:\\DAM2T\\M09_Flutter\\Git_IVehicle\\Sintesis_DAM2T\\Sintesis_DAM2T\\ivehicle\\assets\\video sintesis\\search_gallery.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20210530T143804",
+      "lastMod" : "20210530T162801",
       "sourceTracks" : [
         {
           "range" : [0, 485669997],
@@ -238,9 +238,9 @@
     },
     {
       "id" : 9,
-      "src" : "C:\\Users\\Jabb17\\Desktop\\video sintesis\\pixabay.png",
+      "src" : "D:\\DAM2T\\M09_Flutter\\Git_IVehicle\\Sintesis_DAM2T\\Sintesis_DAM2T\\ivehicle\\assets\\video sintesis\\pixabay.png",
       "rect" : [0, 0, 2560, 496],
-      "lastMod" : "20210530T144244",
+      "lastMod" : "20210530T162801",
       "sourceTracks" : [
         {
           "range" : [0, 1],
@@ -258,9 +258,9 @@
     },
     {
       "id" : 10,
-      "src" : "C:\\Users\\Jabb17\\Desktop\\video sintesis\\drawer + logout.mp4",
+      "src" : "D:\\DAM2T\\M09_Flutter\\Git_IVehicle\\Sintesis_DAM2T\\Sintesis_DAM2T\\ivehicle\\assets\\video sintesis\\drawer + logout.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20210530T145729",
+      "lastMod" : "20210530T162801",
       "sourceTracks" : [
         {
           "range" : [0, 267499999],
@@ -290,9 +290,9 @@
     },
     {
       "id" : 11,
-      "src" : "C:\\Users\\Jabb17\\Desktop\\video sintesis\\events_and_routes.mp4",
+      "src" : "D:\\DAM2T\\M09_Flutter\\Git_IVehicle\\Sintesis_DAM2T\\Sintesis_DAM2T\\ivehicle\\assets\\video sintesis\\events_and_routes.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20210530T150142",
+      "lastMod" : "20210530T162801",
       "sourceTracks" : [
         {
           "range" : [0, 794499999],
@@ -322,9 +322,9 @@
     },
     {
       "id" : 12,
-      "src" : "C:\\Users\\Jabb17\\Desktop\\video sintesis\\compraventa.mp4",
+      "src" : "D:\\DAM2T\\M09_Flutter\\Git_IVehicle\\Sintesis_DAM2T\\Sintesis_DAM2T\\ivehicle\\assets\\video sintesis\\compraventa.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20210530T151241",
+      "lastMod" : "20210530T162801",
       "sourceTracks" : [
         {
           "range" : [0, 629999999],
@@ -351,14 +351,46 @@
           "metaData" : ""
         }
       ]
+    },
+    {
+      "id" : 13,
+      "src" : "D:\\DAM2T\\M09_Flutter\\Git_IVehicle\\Sintesis_DAM2T\\Sintesis_DAM2T\\ivehicle\\assets\\video sintesis\\settings_color_provider.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20210531T144721",
+      "sourceTracks" : [
+        {
+          "range" : [0, 270999999],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "5000000/83333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 270999999],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 48000,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -53.4753275458305,
+          "peakLevel" : 0.0301389619708061,
+          "metaData" : ""
+        }
+      ]
     }
   ],
   "timeline" : {
-    "id" : 13,
+    "id" : 14,
     "sceneTrack" : {
       "scenes" : [
         {
-          "duration" : 270.216666666667,
+          "duration" : 335.55,
           "title" : "",
           "type" : "",
           "csml" : {
@@ -367,7 +399,7 @@
                 "trackIndex" : 0,
                 "medias" : [
                   {
-                    "id" : 14,
+                    "id" : 15,
                     "_type" : "IMFile",
                     "src" : 1,
                     "trackNumber" : 0,
@@ -409,7 +441,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 14
+                    "rightMedia" : 15
                   },
                   {
                     "name" : "Fade",
@@ -418,7 +450,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 14
+                    "leftMedia" : 15
                   }
                 ]
               },
@@ -426,7 +458,7 @@
                 "trackIndex" : 1,
                 "medias" : [
                   {
-                    "id" : 15,
+                    "id" : 16,
                     "_type" : "IMFile",
                     "src" : 2,
                     "trackNumber" : 0,
@@ -460,11 +492,11 @@
                     }
                   },
                   {
-                    "id" : 16,
+                    "id" : 17,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 17,
+                          "id" : 18,
                           "_type" : "VMFile",
                           "src" : 4,
                           "trackNumber" : 0,
@@ -491,7 +523,7 @@
                         },
                     "audio" : 
                         {
-                          "id" : 18,
+                          "id" : 19,
                           "_type" : "AMFile",
                           "src" : 4,
                           "trackNumber" : 1,
@@ -559,11 +591,11 @@
                     }
                   },
                   {
-                    "id" : 19,
+                    "id" : 20,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 20,
+                          "id" : 21,
                           "_type" : "VMFile",
                           "src" : 4,
                           "trackNumber" : 0,
@@ -590,7 +622,7 @@
                         },
                     "audio" : 
                         {
-                          "id" : 21,
+                          "id" : 22,
                           "_type" : "AMFile",
                           "src" : 4,
                           "trackNumber" : 1,
@@ -664,11 +696,11 @@
                     }
                   },
                   {
-                    "id" : 22,
+                    "id" : 23,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 23,
+                          "id" : 24,
                           "_type" : "VMFile",
                           "src" : 6,
                           "trackNumber" : 0,
@@ -689,7 +721,7 @@
                         },
                     "audio" : 
                         {
-                          "id" : 24,
+                          "id" : 25,
                           "_type" : "AMFile",
                           "src" : 6,
                           "trackNumber" : 1,
@@ -753,11 +785,11 @@
                     }
                   },
                   {
-                    "id" : 25,
+                    "id" : 26,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 26,
+                          "id" : 27,
                           "_type" : "VMFile",
                           "src" : 7,
                           "trackNumber" : 0,
@@ -778,7 +810,7 @@
                         },
                     "audio" : 
                         {
-                          "id" : 27,
+                          "id" : 28,
                           "_type" : "AMFile",
                           "src" : 7,
                           "trackNumber" : 1,
@@ -842,11 +874,11 @@
                     }
                   },
                   {
-                    "id" : 28,
+                    "id" : 29,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 29,
+                          "id" : 30,
                           "_type" : "VMFile",
                           "src" : 8,
                           "trackNumber" : 0,
@@ -867,7 +899,7 @@
                         },
                     "audio" : 
                         {
-                          "id" : 30,
+                          "id" : 31,
                           "_type" : "AMFile",
                           "src" : 8,
                           "trackNumber" : 1,
@@ -931,11 +963,11 @@
                     }
                   },
                   {
-                    "id" : 31,
+                    "id" : 32,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 32,
+                          "id" : 33,
                           "_type" : "VMFile",
                           "src" : 10,
                           "trackNumber" : 0,
@@ -956,7 +988,7 @@
                         },
                     "audio" : 
                         {
-                          "id" : 33,
+                          "id" : 34,
                           "_type" : "AMFile",
                           "src" : 10,
                           "trackNumber" : 1,
@@ -1020,11 +1052,11 @@
                     }
                   },
                   {
-                    "id" : 34,
+                    "id" : 35,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 35,
+                          "id" : 36,
                           "_type" : "VMFile",
                           "src" : 11,
                           "trackNumber" : 0,
@@ -1045,7 +1077,7 @@
                         },
                     "audio" : 
                         {
-                          "id" : 36,
+                          "id" : 37,
                           "_type" : "AMFile",
                           "src" : 11,
                           "trackNumber" : 1,
@@ -1109,11 +1141,11 @@
                     }
                   },
                   {
-                    "id" : 37,
+                    "id" : 38,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 38,
+                          "id" : 39,
                           "_type" : "VMFile",
                           "src" : 12,
                           "trackNumber" : 0,
@@ -1134,7 +1166,7 @@
                         },
                     "audio" : 
                         {
-                          "id" : 39,
+                          "id" : 40,
                           "_type" : "AMFile",
                           "src" : 12,
                           "trackNumber" : 1,
@@ -1196,27 +1228,98 @@
                     "metadata" : {
                       "clipSpeedAttribute" : true
                     }
+                  },
+                  {
+                    "id" : 41,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 42,
+                          "_type" : "VMFile",
+                          "src" : 13,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "settings_color_provider"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 15929,
+                          "duration" : 1626,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 1626,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 43,
+                          "_type" : "AMFile",
+                          "src" : 13,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "parameters" : {
+                            "volume" : {
+                              "type" : "double",
+                              "keyframes" : [
+                                {
+                                  "endTime" : -1,
+                                  "time" : -1,
+                                  "value" : 1.0,
+                                  "duration" : 0
+                                },
+                                {
+                                  "endTime" : 0,
+                                  "time" : 0,
+                                  "value" : 0.0,
+                                  "duration" : 0
+                                },
+                                {
+                                  "endTime" : 1626,
+                                  "time" : 1626,
+                                  "value" : 0.0,
+                                  "duration" : 0
+                                },
+                                {
+                                  "endTime" : 1627,
+                                  "time" : 1627,
+                                  "value" : 1.0,
+                                  "duration" : 0
+                                }
+                              ]
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 15929,
+                          "duration" : 1626,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 1626,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 15929,
+                    "duration" : 1626,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1626,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    }
                   }
                 ],
                 "transitions" : [
-                  {
-                    "name" : "Fade",
-                    "duration" : 60,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 15
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 60,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 15
-                  },
                   {
                     "name" : "Fade",
                     "duration" : 60,
@@ -1242,7 +1345,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 19
+                    "rightMedia" : 17
                   },
                   {
                     "name" : "Fade",
@@ -1251,7 +1354,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 19
+                    "leftMedia" : 17
                   },
                   {
                     "name" : "Fade",
@@ -1260,7 +1363,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 22
+                    "rightMedia" : 20
                   },
                   {
                     "name" : "Fade",
@@ -1269,7 +1372,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 22
+                    "leftMedia" : 20
                   },
                   {
                     "name" : "Fade",
@@ -1278,7 +1381,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 25
+                    "rightMedia" : 23
                   },
                   {
                     "name" : "Fade",
@@ -1287,7 +1390,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 25
+                    "leftMedia" : 23
                   },
                   {
                     "name" : "Fade",
@@ -1296,7 +1399,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 28
+                    "rightMedia" : 26
                   },
                   {
                     "name" : "Fade",
@@ -1305,7 +1408,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 28
+                    "leftMedia" : 26
                   },
                   {
                     "name" : "Fade",
@@ -1314,7 +1417,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 31
+                    "rightMedia" : 29
                   },
                   {
                     "name" : "Fade",
@@ -1323,7 +1426,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 31
+                    "leftMedia" : 29
                   },
                   {
                     "name" : "Fade",
@@ -1332,7 +1435,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 34
+                    "rightMedia" : 32
                   },
                   {
                     "name" : "Fade",
@@ -1341,7 +1444,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 34
+                    "leftMedia" : 32
                   },
                   {
                     "name" : "Fade",
@@ -1350,7 +1453,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 37
+                    "rightMedia" : 35
                   },
                   {
                     "name" : "Fade",
@@ -1359,7 +1462,43 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 37
+                    "leftMedia" : 35
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 38
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 38
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 41
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 41
                   }
                 ]
               },
@@ -1367,7 +1506,7 @@
                 "trackIndex" : 2,
                 "medias" : [
                   {
-                    "id" : 40,
+                    "id" : 44,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1430,7 +1569,7 @@
                     }
                   },
                   {
-                    "id" : 41,
+                    "id" : 45,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1493,11 +1632,11 @@
                     }
                   },
                   {
-                    "id" : 42,
+                    "id" : 46,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 43,
+                          "id" : 47,
                           "_type" : "VMFile",
                           "src" : 5,
                           "trackNumber" : 0,
@@ -1655,7 +1794,7 @@
                         },
                     "audio" : 
                         {
-                          "id" : 44,
+                          "id" : 48,
                           "_type" : "AMFile",
                           "src" : 5,
                           "trackNumber" : 1,
@@ -1723,7 +1862,7 @@
                     }
                   },
                   {
-                    "id" : 45,
+                    "id" : 49,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1786,7 +1925,7 @@
                     }
                   },
                   {
-                    "id" : 46,
+                    "id" : 50,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1849,62 +1988,26 @@
                     }
                   },
                   {
-                    "id" : 47,
+                    "id" : 51,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
                       "shape" : "text",
                       "style" : "basic",
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 356.122448979446,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 595.918367346841,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "height" : 356.122448979446,
+                      "line-spacing" : 0.0,
+                      "width" : 595.918367346841,
+                      "word-wrap" : 1.0,
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
                       "text" : "GALERÍA CON CONEXIÓN A UNA API",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 96.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 96.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -1924,16 +2027,8 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -600.979591836818,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.438775510410395,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : -600.979591836818,
+                      "translation1" : 0.438775510410395
                     },
                     "effects" : [
 
@@ -1957,62 +2052,26 @@
                     }
                   },
                   {
-                    "id" : 48,
+                    "id" : 52,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
                       "shape" : "text",
                       "style" : "basic",
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 356.122448979446,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 595.918367346841,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "height" : 356.122448979446,
+                      "line-spacing" : 0.0,
+                      "width" : 595.918367346841,
+                      "word-wrap" : 1.0,
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
                       "text" : "GALERÍA CON FILTRO DE BÚSQUEDA CON LA API DE PIXABAY ",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 96.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 96.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -2032,16 +2091,8 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -600.979591836818,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.438775510410395,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : -600.979591836818,
+                      "translation1" : 0.438775510410395
                     },
                     "effects" : [
 
@@ -2065,62 +2116,26 @@
                     }
                   },
                   {
-                    "id" : 49,
+                    "id" : 53,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
                       "shape" : "text",
                       "style" : "basic",
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 356.122448979446,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 595.918367346841,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "height" : 356.122448979446,
+                      "line-spacing" : 0.0,
+                      "width" : 595.918367346841,
+                      "word-wrap" : 1.0,
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
                       "text" : "MENÚ LATERAL CON VARIAS OPCIONES",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 96.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 96.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -2140,16 +2155,8 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -600.979591836818,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.438775510410395,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : -600.979591836818,
+                      "translation1" : 0.438775510410395
                     },
                     "effects" : [
 
@@ -2173,62 +2180,26 @@
                     }
                   },
                   {
-                    "id" : 50,
+                    "id" : 54,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
                       "shape" : "text",
                       "style" : "basic",
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 356.122448979446,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 595.918367346841,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "height" : 356.122448979446,
+                      "line-spacing" : 0.0,
+                      "width" : 595.918367346841,
+                      "word-wrap" : 1.0,
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
                       "text" : "VISUALIZACIÓN DE EVENTOS Y RUTAS",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 96.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 96.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -2248,16 +2219,8 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -600.979591836818,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.438775510410395,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : -600.979591836818,
+                      "translation1" : 0.438775510410395
                     },
                     "effects" : [
 
@@ -2281,7 +2244,71 @@
                     }
                   },
                   {
-                    "id" : 51,
+                    "id" : 55,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "basic",
+                      "height" : 356.122448979446,
+                      "line-spacing" : 0.0,
+                      "width" : 595.918367346841,
+                      "word-wrap" : 1.0,
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "COMPRAVENTA DE COCHES",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 96.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":21,"rangeStart":0,"value":"(0,0,0,255)","valueType":"color"},{"name":"fontName","rangeEnd":21,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":21,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":21,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":21,"rangeStart":0,"value":2,"valueType":"int"},{"name":"strikethrough","rangeEnd":21,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":21,"rangeStart":0,"value":96,"valueType":"double"},{"name":"kerning","rangeEnd":21,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -600.979591836818,
+                      "translation1" : 0.438775510410395
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 13927,
+                    "duration" : 1890,
+                    "mediaStart" : -476,
+                    "mediaDuration" : 1890,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-text-attributes" : "[{\"name\":\"fontSize\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":96,\"valueType\":\"double\"},{\"name\":\"fontWeight\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":400,\"valueType\":\"int\"},{\"name\":\"fgColor\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":\"(0,0,0,255)\",\"valueType\":\"color\"},{\"name\":\"kerning\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":0,\"valueType\":\"double\"},{\"name\":\"fontItalic\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":2,\"valueType\":\"int\"},{\"name\":\"fontName\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":\"Montserrat\",\"valueType\":\"string\"},{\"name\":\"underline\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"strikethrough\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"}]",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 56,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -2309,7 +2336,7 @@
                       },
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
-                      "text" : "COMPRAVENTA DE COCHES",
+                      "text" : "CAMBIO DE COLOR EN EL MENÚ DE AJUSTES",
                       "vertical-alignment" : "center",
                       "font" : {
                         "color-blue" : {
@@ -2346,7 +2373,7 @@
                           {
                             "endTime" : 0,
                             "time" : 0,
-                            "value" : [{"name":"fgColor","rangeEnd":21,"rangeStart":0,"value":"(0,0,0,255)","valueType":"color"},{"name":"fontName","rangeEnd":21,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":21,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":21,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":21,"rangeStart":0,"value":2,"valueType":"int"},{"name":"strikethrough","rangeEnd":21,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":21,"rangeStart":0,"value":96,"valueType":"double"},{"name":"kerning","rangeEnd":21,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "value" : [{"name":"fontSize","rangeEnd":38,"rangeStart":0,"value":96,"valueType":"double"},{"name":"fgColor","rangeEnd":38,"rangeStart":0,"value":"(0,0,0,255)","valueType":"color"},{"name":"kerning","rangeEnd":38,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontWeight","rangeEnd":38,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontName","rangeEnd":38,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontItalic","rangeEnd":38,"rangeStart":0,"value":2,"valueType":"int"},{"name":"underline","rangeEnd":38,"rangeStart":0,"value":0,"valueType":"int"},{"name":"strikethrough","rangeEnd":38,"rangeStart":0,"value":0,"valueType":"int"}],
                             "duration" : 0
                           }
                         ]
@@ -2370,10 +2397,10 @@
                     "effects" : [
 
                     ],
-                    "start" : 13927,
-                    "duration" : 1890,
+                    "start" : 15929,
+                    "duration" : 1626,
                     "mediaStart" : -476,
-                    "mediaDuration" : 1890,
+                    "mediaDuration" : 1626,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -2389,62 +2416,26 @@
                     }
                   },
                   {
-                    "id" : 52,
+                    "id" : 57,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
                       "shape" : "text",
                       "style" : "basic",
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 356.122448979446,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 1046.93877550993,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "height" : 356.122448979446,
+                      "line-spacing" : 0.0,
+                      "width" : 1046.93877550993,
+                      "word-wrap" : 1.0,
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
                       "text" : "¡ESPERAMOS QUE OS HAYA GUSTADO!",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 96.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 96.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -2464,21 +2455,13 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0306122450446367,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.438775510346578,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : 0.0306122450446367,
+                      "translation1" : 0.438775510346578
                     },
                     "effects" : [
 
                     ],
-                    "start" : 15865,
+                    "start" : 19785,
                     "duration" : 348,
                     "mediaStart" : -476,
                     "mediaDuration" : 348,
@@ -2505,7 +2488,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 40
+                    "rightMedia" : 44
                   },
                   {
                     "name" : "Fade",
@@ -2514,27 +2497,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 40,
-                    "rightMedia" : 41
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 60,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 41,
-                    "rightMedia" : 42
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 60,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 42,
+                    "leftMedia" : 44,
                     "rightMedia" : 45
                   },
                   {
@@ -2544,15 +2507,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 45
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 60,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
+                    "leftMedia" : 45,
                     "rightMedia" : 46
                   },
                   {
@@ -2562,51 +2517,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 46
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 60,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 47
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 60,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 47
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 60,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 48
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 60,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 48
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 60,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
+                    "leftMedia" : 46,
                     "rightMedia" : 49
                   },
                   {
@@ -2671,450 +2582,7 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 52
-                  }
-                ]
-              },
-              {
-                "trackIndex" : 3,
-                "medias" : [
-                  {
-                    "id" : 53,
-                    "_type" : "IMFile",
-                    "src" : 3,
-                    "trackNumber" : 0,
-                    "trimStartSum" : 0,
-                    "attributes" : {
-                      "ident" : "stucom"
-                    },
-                    "parameters" : {
-                      "translation0" : 696.122448978936,
-                      "translation1" : 408.589616765922,
-                      "scale0" : 0.287402555291546,
-                      "scale1" : 0.287402555291546
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 0,
-                    "duration" : 300,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : 0.0
-                    },
-                    "animationTracks" : {
-
-                    }
                   },
-                  {
-                    "id" : 54,
-                    "_type" : "IMFile",
-                    "src" : 3,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -725,
-                    "attributes" : {
-                      "ident" : "stucom"
-                    },
-                    "parameters" : {
-                      "translation0" : 704.0816326531,
-                      "translation1" : -453.061224489821,
-                      "scale0" : 0.26262475793272,
-                      "scale1" : 0.26262475793272
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 300,
-                    "duration" : 1044,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : 0.0
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 55,
-                    "_type" : "IMFile",
-                    "src" : 3,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -725,
-                    "attributes" : {
-                      "ident" : "stucom"
-                    },
-                    "parameters" : {
-                      "translation0" : 704.0816326531,
-                      "translation1" : -453.061224489821,
-                      "scale0" : 0.26262475793272,
-                      "scale1" : 0.26262475793272
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 2061,
-                    "duration" : 1025,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : 0.0
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 56,
-                    "_type" : "IMFile",
-                    "src" : 3,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -725,
-                    "attributes" : {
-                      "ident" : "stucom"
-                    },
-                    "parameters" : {
-                      "translation0" : 704.0816326531,
-                      "translation1" : -453.061224489821,
-                      "scale0" : 0.26262475793272,
-                      "scale1" : 0.26262475793272
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 3140,
-                    "duration" : 1648,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : 0.0
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 57,
-                    "_type" : "IMFile",
-                    "src" : 3,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -725,
-                    "attributes" : {
-                      "ident" : "stucom"
-                    },
-                    "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 704.0816326531,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : -453.061224489821,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.26262475793272,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.26262475793272,
-                        "interp" : "eioe"
-                      }
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 4826,
-                    "duration" : 2020,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : 0.0
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 58,
-                    "_type" : "IMFile",
-                    "src" : 9,
-                    "trackNumber" : 0,
-                    "trimStartSum" : 0,
-                    "attributes" : {
-                      "ident" : "pixabay"
-                    },
-                    "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -601.020408163387,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : -443.593903619957,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.270089285714084,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.270089285714084,
-                        "interp" : "eioe"
-                      }
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 6884,
-                    "duration" : 2914,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 0.75,
-                      "default-scale1" : 0.75,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : 0.0
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 59,
-                    "_type" : "IMFile",
-                    "src" : 3,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -725,
-                    "attributes" : {
-                      "ident" : "stucom"
-                    },
-                    "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 704.0816326531,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : -453.061224489821,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.26262475793272,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.26262475793272,
-                        "interp" : "eioe"
-                      }
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 9854,
-                    "duration" : 1605,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : 0.0
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 60,
-                    "_type" : "IMFile",
-                    "src" : 3,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -725,
-                    "attributes" : {
-                      "ident" : "stucom"
-                    },
-                    "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 704.0816326531,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : -453.061224489821,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.26262475793272,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.26262475793272,
-                        "interp" : "eioe"
-                      }
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 11498,
-                    "duration" : 2384,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : 0.0
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 61,
-                    "_type" : "IMFile",
-                    "src" : 3,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -725,
-                    "attributes" : {
-                      "ident" : "stucom"
-                    },
-                    "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 704.0816326531,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : -453.061224489821,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.26262475793272,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.26262475793272,
-                        "interp" : "eioe"
-                      }
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 13927,
-                    "duration" : 1890,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : 0.0
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 62,
-                    "_type" : "IMFile",
-                    "src" : 3,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -725,
-                    "attributes" : {
-                      "ident" : "stucom"
-                    },
-                    "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 704.0816326531,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : -453.061224489821,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.26262475793272,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.26262475793272,
-                        "interp" : "eioe"
-                      }
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 15865,
-                    "duration" : 348,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : 0.0
-                    },
-                    "animationTracks" : {
-
-                    }
-                  }
-                ],
-                "transitions" : [
                   {
                     "name" : "Fade",
                     "duration" : 60,
@@ -3131,7 +2599,15 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 53,
+                    "leftMedia" : 53
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
                     "rightMedia" : 54
                   },
                   {
@@ -3196,7 +2672,404 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 57
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 3,
+                "medias" : [
+                  {
+                    "id" : 58,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "stucom"
+                    },
+                    "parameters" : {
+                      "translation0" : 696.122448978936,
+                      "translation1" : 408.589616765922,
+                      "scale0" : 0.287402555291546,
+                      "scale1" : 0.287402555291546
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 300,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
                   },
+                  {
+                    "id" : 59,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -725,
+                    "attributes" : {
+                      "ident" : "stucom"
+                    },
+                    "parameters" : {
+                      "translation0" : 704.0816326531,
+                      "translation1" : -453.061224489821,
+                      "scale0" : 0.26262475793272,
+                      "scale1" : 0.26262475793272
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 300,
+                    "duration" : 1044,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 60,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -725,
+                    "attributes" : {
+                      "ident" : "stucom"
+                    },
+                    "parameters" : {
+                      "translation0" : 704.0816326531,
+                      "translation1" : -453.061224489821,
+                      "scale0" : 0.26262475793272,
+                      "scale1" : 0.26262475793272
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2061,
+                    "duration" : 1025,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 61,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -725,
+                    "attributes" : {
+                      "ident" : "stucom"
+                    },
+                    "parameters" : {
+                      "translation0" : 704.0816326531,
+                      "translation1" : -453.061224489821,
+                      "scale0" : 0.26262475793272,
+                      "scale1" : 0.26262475793272
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 3140,
+                    "duration" : 1648,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 62,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -725,
+                    "attributes" : {
+                      "ident" : "stucom"
+                    },
+                    "parameters" : {
+                      "translation0" : 704.0816326531,
+                      "translation1" : -453.061224489821,
+                      "scale0" : 0.26262475793272,
+                      "scale1" : 0.26262475793272
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 4826,
+                    "duration" : 2020,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 63,
+                    "_type" : "IMFile",
+                    "src" : 9,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "pixabay"
+                    },
+                    "parameters" : {
+                      "translation0" : -601.020408163387,
+                      "translation1" : -443.593903619957,
+                      "scale0" : 0.270089285714084,
+                      "scale1" : 0.270089285714084
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 6884,
+                    "duration" : 2914,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 0.75,
+                      "default-scale1" : 0.75,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 64,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -725,
+                    "attributes" : {
+                      "ident" : "stucom"
+                    },
+                    "parameters" : {
+                      "translation0" : 704.0816326531,
+                      "translation1" : -453.061224489821,
+                      "scale0" : 0.26262475793272,
+                      "scale1" : 0.26262475793272
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 9854,
+                    "duration" : 1605,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 65,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -725,
+                    "attributes" : {
+                      "ident" : "stucom"
+                    },
+                    "parameters" : {
+                      "translation0" : 704.0816326531,
+                      "translation1" : -453.061224489821,
+                      "scale0" : 0.26262475793272,
+                      "scale1" : 0.26262475793272
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 11498,
+                    "duration" : 2384,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 66,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -725,
+                    "attributes" : {
+                      "ident" : "stucom"
+                    },
+                    "parameters" : {
+                      "translation0" : 704.0816326531,
+                      "translation1" : -453.061224489821,
+                      "scale0" : 0.26262475793272,
+                      "scale1" : 0.26262475793272
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 13927,
+                    "duration" : 1890,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 67,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -725,
+                    "attributes" : {
+                      "ident" : "stucom"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 704.0816326531,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -453.061224489821,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.26262475793272,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.26262475793272,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 15929,
+                    "duration" : 1626,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 68,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -725,
+                    "attributes" : {
+                      "ident" : "stucom"
+                    },
+                    "parameters" : {
+                      "translation0" : 704.0816326531,
+                      "translation1" : -453.061224489821,
+                      "scale0" : 0.26262475793272,
+                      "scale1" : 0.26262475793272
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 19785,
+                    "duration" : 348,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
                   {
                     "name" : "Fade",
                     "duration" : 60,
@@ -3213,15 +3086,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 58
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 60,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
+                    "leftMedia" : 58,
                     "rightMedia" : 59
                   },
                   {
@@ -3286,416 +3151,7 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 62
-                  }
-                ]
-              },
-              {
-                "trackIndex" : 4,
-                "medias" : [
-                  {
-                    "id" : 63,
-                    "_type" : "IMFile",
-                    "src" : 1,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -335,
-                    "attributes" : {
-                      "ident" : "logo_Alex"
-                    },
-                    "parameters" : {
-                      "translation0" : 775.877551021381,
-                      "translation1" : 443.983099490024,
-                      "scale0" : 0.225127551019879,
-                      "scale1" : 0.225127551019879
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 300,
-                    "duration" : 1044,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : -0.5
-                    },
-                    "animationTracks" : {
-
-                    }
                   },
-                  {
-                    "id" : 64,
-                    "_type" : "IMFile",
-                    "src" : 1,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -316,
-                    "attributes" : {
-                      "ident" : "logo_Alex"
-                    },
-                    "parameters" : {
-                      "translation0" : 775.877551021381,
-                      "translation1" : 443.983099490024,
-                      "scale0" : 0.225127551019879,
-                      "scale1" : 0.225127551019879
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 2061,
-                    "duration" : 1025,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : -0.5
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 65,
-                    "_type" : "IMFile",
-                    "src" : 1,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -316,
-                    "attributes" : {
-                      "ident" : "logo_Alex"
-                    },
-                    "parameters" : {
-                      "translation0" : 775.877551021381,
-                      "translation1" : 443.983099490024,
-                      "scale0" : 0.225127551019879,
-                      "scale1" : 0.225127551019879
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 3140,
-                    "duration" : 1648,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : -0.5
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 66,
-                    "_type" : "IMFile",
-                    "src" : 1,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -316,
-                    "attributes" : {
-                      "ident" : "logo_Alex"
-                    },
-                    "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 775.877551021381,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 443.983099490024,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.225127551019879,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.225127551019879,
-                        "interp" : "eioe"
-                      }
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 4826,
-                    "duration" : 2020,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : -0.5
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 67,
-                    "_type" : "IMFile",
-                    "src" : 3,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -725,
-                    "attributes" : {
-                      "ident" : "stucom"
-                    },
-                    "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 704.0816326531,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : -453.061224489821,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.26262475793272,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.26262475793272,
-                        "interp" : "eioe"
-                      }
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 6884,
-                    "duration" : 2914,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : 0.0
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 68,
-                    "_type" : "IMFile",
-                    "src" : 1,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -316,
-                    "attributes" : {
-                      "ident" : "logo_Alex"
-                    },
-                    "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 775.877551021381,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 443.983099490024,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.225127551019879,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.225127551019879,
-                        "interp" : "eioe"
-                      }
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 9854,
-                    "duration" : 1605,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : -0.5
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 69,
-                    "_type" : "IMFile",
-                    "src" : 1,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -316,
-                    "attributes" : {
-                      "ident" : "logo_Alex"
-                    },
-                    "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 775.877551021381,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 443.983099490024,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.225127551019879,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.225127551019879,
-                        "interp" : "eioe"
-                      }
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 11498,
-                    "duration" : 2384,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : -0.5
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 70,
-                    "_type" : "IMFile",
-                    "src" : 1,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -316,
-                    "attributes" : {
-                      "ident" : "logo_Alex"
-                    },
-                    "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 775.877551021381,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 443.983099490024,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.225127551019879,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.225127551019879,
-                        "interp" : "eioe"
-                      }
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 13927,
-                    "duration" : 1890,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : -0.5
-                    },
-                    "animationTracks" : {
-
-                    }
-                  },
-                  {
-                    "id" : 71,
-                    "_type" : "IMFile",
-                    "src" : 1,
-                    "trackNumber" : 0,
-                    "trimStartSum" : -316,
-                    "attributes" : {
-                      "ident" : "logo_Alex"
-                    },
-                    "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 775.877551021381,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 443.983099490024,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.225127551019879,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.225127551019879,
-                        "interp" : "eioe"
-                      }
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 15865,
-                    "duration" : 348,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 1,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-scale0" : 1.0,
-                      "default-scale1" : 1.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : -0.5
-                    },
-                    "animationTracks" : {
-
-                    }
-                  }
-                ],
-                "transitions" : [
                   {
                     "name" : "Fade",
                     "duration" : 60,
@@ -3803,7 +3259,370 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 68
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 4,
+                "medias" : [
+                  {
+                    "id" : 69,
+                    "_type" : "IMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -335,
+                    "attributes" : {
+                      "ident" : "logo_Alex"
+                    },
+                    "parameters" : {
+                      "translation0" : 775.877551021381,
+                      "translation1" : 443.983099490024,
+                      "scale0" : 0.225127551019879,
+                      "scale1" : 0.225127551019879
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 300,
+                    "duration" : 1044,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
                   },
+                  {
+                    "id" : 70,
+                    "_type" : "IMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -316,
+                    "attributes" : {
+                      "ident" : "logo_Alex"
+                    },
+                    "parameters" : {
+                      "translation0" : 775.877551021381,
+                      "translation1" : 443.983099490024,
+                      "scale0" : 0.225127551019879,
+                      "scale1" : 0.225127551019879
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2061,
+                    "duration" : 1025,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 71,
+                    "_type" : "IMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -316,
+                    "attributes" : {
+                      "ident" : "logo_Alex"
+                    },
+                    "parameters" : {
+                      "translation0" : 775.877551021381,
+                      "translation1" : 443.983099490024,
+                      "scale0" : 0.225127551019879,
+                      "scale1" : 0.225127551019879
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 3140,
+                    "duration" : 1648,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 72,
+                    "_type" : "IMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -316,
+                    "attributes" : {
+                      "ident" : "logo_Alex"
+                    },
+                    "parameters" : {
+                      "translation0" : 775.877551021381,
+                      "translation1" : 443.983099490024,
+                      "scale0" : 0.225127551019879,
+                      "scale1" : 0.225127551019879
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 4826,
+                    "duration" : 2020,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 73,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -725,
+                    "attributes" : {
+                      "ident" : "stucom"
+                    },
+                    "parameters" : {
+                      "translation0" : 704.0816326531,
+                      "translation1" : -453.061224489821,
+                      "scale0" : 0.26262475793272,
+                      "scale1" : 0.26262475793272
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 6884,
+                    "duration" : 2914,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 74,
+                    "_type" : "IMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -316,
+                    "attributes" : {
+                      "ident" : "logo_Alex"
+                    },
+                    "parameters" : {
+                      "translation0" : 775.877551021381,
+                      "translation1" : 443.983099490024,
+                      "scale0" : 0.225127551019879,
+                      "scale1" : 0.225127551019879
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 9854,
+                    "duration" : 1605,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 75,
+                    "_type" : "IMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -316,
+                    "attributes" : {
+                      "ident" : "logo_Alex"
+                    },
+                    "parameters" : {
+                      "translation0" : 775.877551021381,
+                      "translation1" : 443.983099490024,
+                      "scale0" : 0.225127551019879,
+                      "scale1" : 0.225127551019879
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 11498,
+                    "duration" : 2384,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 76,
+                    "_type" : "IMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -316,
+                    "attributes" : {
+                      "ident" : "logo_Alex"
+                    },
+                    "parameters" : {
+                      "translation0" : 775.877551021381,
+                      "translation1" : 443.983099490024,
+                      "scale0" : 0.225127551019879,
+                      "scale1" : 0.225127551019879
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 13927,
+                    "duration" : 1890,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 77,
+                    "_type" : "IMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -316,
+                    "attributes" : {
+                      "ident" : "logo_Alex"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 775.877551021381,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 443.983099490024,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.225127551019879,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.225127551019879,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 15929,
+                    "duration" : 1626,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 78,
+                    "_type" : "IMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -316,
+                    "attributes" : {
+                      "ident" : "logo_Alex"
+                    },
+                    "parameters" : {
+                      "translation0" : 775.877551021381,
+                      "translation1" : 443.983099490024,
+                      "scale0" : 0.225127551019879,
+                      "scale1" : 0.225127551019879
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 19785,
+                    "duration" : 348,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
                   {
                     "name" : "Fade",
                     "duration" : 60,
@@ -3857,6 +3676,132 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 71
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 72
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 72
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 73
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 73
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 74
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 74
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 75
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 75
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 76
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 76
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 77
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 77
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 78
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 78
                   }
                 ]
               },
@@ -3864,7 +3809,267 @@
                 "trackIndex" : 5,
                 "medias" : [
                   {
-                    "id" : 72,
+                    "id" : 79,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "basic",
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 356.122448979446,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 595.918367346841,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "COMPRAVENTA DE COCHES",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 96.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":21,"rangeStart":0,"value":"(0,0,0,255)","valueType":"color"},{"name":"fontName","rangeEnd":21,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":21,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":21,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":21,"rangeStart":0,"value":2,"valueType":"int"},{"name":"strikethrough","rangeEnd":21,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":21,"rangeStart":0,"value":96,"valueType":"double"},{"name":"kerning","rangeEnd":21,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -600.979591836818,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.438775510410395,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 1890,
+                    "mediaStart" : -476,
+                    "mediaDuration" : 1890,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-text-attributes" : "[{\"name\":\"fontSize\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":96,\"valueType\":\"double\"},{\"name\":\"fontWeight\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":400,\"valueType\":\"int\"},{\"name\":\"fgColor\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":\"(0,0,0,255)\",\"valueType\":\"color\"},{\"name\":\"kerning\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":0,\"valueType\":\"double\"},{\"name\":\"fontItalic\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":2,\"valueType\":\"int\"},{\"name\":\"fontName\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":\"Montserrat\",\"valueType\":\"string\"},{\"name\":\"underline\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"strikethrough\",\"rangeEnd\":24,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"}]",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 80,
+                    "_type" : "IMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -316,
+                    "attributes" : {
+                      "ident" : "logo_Alex"
+                    },
+                    "parameters" : {
+                      "translation0" : 775.877551021381,
+                      "translation1" : 443.983099490024,
+                      "scale0" : 0.225127551019879,
+                      "scale1" : 0.225127551019879
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 6884,
+                    "duration" : 2914,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 79
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 79
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 80
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 80
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 6,
+                "medias" : [
+                  {
+                    "id" : 81,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -725,
+                    "attributes" : {
+                      "ident" : "stucom"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 704.0816326531,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -453.061224489821,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.26262475793272,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.26262475793272,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 1890,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 81
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 81
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 7,
+                "medias" : [
+                  {
+                    "id" : 82,
                     "_type" : "IMFile",
                     "src" : 1,
                     "trackNumber" : 0,
@@ -3897,8 +4102,8 @@
                     "effects" : [
 
                     ],
-                    "start" : 6884,
-                    "duration" : 2914,
+                    "start" : 0,
+                    "duration" : 1890,
                     "mediaStart" : 0,
                     "mediaDuration" : 1,
                     "scalar" : 1,
@@ -3922,7 +4127,7 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 72
+                    "rightMedia" : 82
                   },
                   {
                     "name" : "Fade",
@@ -3931,23 +4136,83 @@
                     "reverse" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 72
+                    "leftMedia" : 82
                   }
-                ]
-              },
-              {
-                "trackIndex" : 6,
-                "medias" : [
-                ]
-              },
-              {
-                "trackIndex" : 7,
-                "medias" : [
                 ]
               },
               {
                 "trackIndex" : 8,
                 "medias" : [
+                  {
+                    "id" : 83,
+                    "_type" : "IMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -316,
+                    "attributes" : {
+                      "ident" : "logo_Alex"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 775.877551021381,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 443.983099490024,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.225127551019879,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.225127551019879,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 1890,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 83
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 60,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 83
+                  }
                 ]
               },
               {
@@ -4079,7 +4344,7 @@
   },
   "metadata" : {
     "AutoSaveFile" : "",
-    "CanvasZoom" : 49,
+    "CanvasZoom" : 40,
     "Date" : "2021-05-30 11:37:47 ",
     "IsAutoSave" : "0",
     "Language" : "ENU",
