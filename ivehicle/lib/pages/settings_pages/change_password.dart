@@ -63,16 +63,19 @@ class MyCustomFormState extends State<PasswordSetting> {
 void bbdd() async {
   final conn = await MySqlConnection.connect(
     ConnectionSettings(
-        host: 'localhost',
-        port: 3306,
-        user: 'ivehicle_admin',
-        db: 'id16175847_adminivehicle',
-        password: 'Stucom1234.1234'),
+      host: 'localhost',
+      port: 3306,
+      user: 'ivehicle_admin',
+      db: 'id16175847_adminivehicle',
+      password: 'Stucom1234.1234',
+    ),
   );
 
   var passwords;
   await conn.query(
-      'update users set contrasena=? where name=?', [passwords, 'testUser']);
+    'update users set contrasena=? where name=?',
+    [passwords, 'testUser'],
+  );
 
   await conn.close();
 }
