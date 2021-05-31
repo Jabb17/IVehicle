@@ -53,7 +53,9 @@ class MyCustomFormState extends State<PasswordSetting> {
             child: ElevatedButton(
               onPressed: () {
                 if (_formKey.currentState.validate()) {
+                  print(_formKey);
                   _formKey = passwords;
+                  print(passwords);
                   bbdd(passwords);
                 }
               },
@@ -66,7 +68,7 @@ class MyCustomFormState extends State<PasswordSetting> {
   }
 }
 
-void bbdd(passwords) async {
+void bbdd(String passwords) async {
   final conn = await MySqlConnection.connect(
     ConnectionSettings(
       host: 'localhost',
@@ -79,7 +81,7 @@ void bbdd(passwords) async {
 
   var passwords;
   await conn.query(
-    'update users set contrasena=? where name=?',
+    'update users set contrasena=? where usuario=?',
     [passwords, 'testUser'],
   );
 
