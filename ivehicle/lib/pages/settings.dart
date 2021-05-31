@@ -158,7 +158,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
               onPressed: (context) {
                 Navigator.of(context).push(
                   MaterialPageRoute(
-                    builder: (_) => PasswordSetting(),
+                    builder: (_) => ChangePasswordScreen(),
                   ),
                 );
               },

@@ -1,17 +1,18 @@
-import 'dart:async';
 import 'package:mysql1/mysql1.dart';
 import 'package:flutter/material.dart';
 
-class MyApp extends StatelessWidget {
+class ChangePasswordScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final appTitle = 'Form Validation Demo';
+    final appTitle = 'Change your password';
 
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: appTitle,
       home: Scaffold(
         appBar: AppBar(
           title: Text(appTitle),
+          centerTitle: true,
         ),
         body: PasswordSetting(),
       ),
@@ -19,7 +20,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// Create a Form widget.
 class PasswordSetting extends StatefulWidget {
   @override
   MyCustomFormState createState() {
@@ -27,14 +27,7 @@ class PasswordSetting extends StatefulWidget {
   }
 }
 
-// Create a corresponding State class.
-// This class holds data related to the form.
 class MyCustomFormState extends State<PasswordSetting> {
-  // Create a global key that uniquely identifies the Form widget
-  // and allows validation of the form.
-  //
-  // Note: This is a GlobalKey<FormState>,
-  // not a GlobalKey<MyCustomFormState>.
   final _formKey = GlobalKey<FormState>();
 
   @override
@@ -56,10 +49,7 @@ class MyCustomFormState extends State<PasswordSetting> {
             padding: const EdgeInsets.symmetric(vertical: 16.0),
             child: ElevatedButton(
               onPressed: () {
-                if (_formKey.currentState.validate()) {
-                  ScaffoldMessenger.of(context)
-                      .showSnackBar(SnackBar(content: Text('Processing Data')));
-                }
+                if (_formKey.currentState.validate()) {}
               },
               child: Text('Submit'),
             ),
@@ -71,20 +61,18 @@ class MyCustomFormState extends State<PasswordSetting> {
 }
 
 void bbdd() async {
-  // Open a connection (testdb should already exist)
-  final conn = await MySqlConnection.connect(ConnectionSettings(
-      host: 'https://www.000webhost.com/',
-      port: 3306,
-      user: 'ivehicle_admin',
-      db: 'id16175847_adminivehicle',
-      password: 'Stucom1234.1234'));
-
-  // Update some data
+  final conn = await MySqlConnection.connect(
+    ConnectionSettings(
+        host: 'localhost',
+        port: 3306,
+        user: 'ivehicle_admin',
+        db: 'id16175847_adminivehicle',
+        password: 'Stucom1234.1234'),
+  );
 
   var passwords;
   await conn.query(
       'update users set contrasena=? where name=?', [passwords, 'testUser']);
 
-  // Finally, close the connection
   await conn.close();
 }

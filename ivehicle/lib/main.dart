@@ -18,9 +18,7 @@ class IVehicle extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
+      theme: Provider.of<ThemeModel>(context).currentTheme,
       home: MyHomePage(),
     );
   }
