@@ -38,7 +38,7 @@ ThemeData negroTheme = ThemeData.light().copyWith(
 );
 
 class ThemeModel extends ChangeNotifier {
-  ThemeData currentTheme = naranjaTheme;
+  ThemeData currentTheme = azulTheme;
 
   ThemeType _themeType;
 
@@ -158,7 +158,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
               onPressed: (context) {
                 Navigator.of(context).push(
                   MaterialPageRoute(
-                    builder: (_) => ChangePasswordScreen(),
+                    builder: (_) => PasswordSetting(),
                   ),
                 );
               },
@@ -176,22 +176,6 @@ class _SettingsScreenState extends State<SettingsScreen> {
             ),
           ],
         ),
-        /*SettingsSection(
-          title: 'Security',
-          tiles: [
-            SettingsTile(
-              title: 'Delete your account',
-              leading: Icon(Icons.delete),
-              onPressed: (context) {
-                Navigator.of(context).push(
-                  MaterialPageRoute(
-                    builder: (_) => TerminosScreen(),
-                  ),
-                );
-              },
-            ),
-          ],
-        ),*/
         SettingsSection(
           title: 'Documentation',
           tiles: [
