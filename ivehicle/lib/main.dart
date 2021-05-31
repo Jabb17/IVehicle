@@ -1,10 +1,17 @@
 import 'package:flutter/material.dart';
+import 'package:ivehicle/pages/settings.dart';
+import 'package:provider/provider.dart';
 import 'pages/login_pages/signin.dart';
 import 'pages/login_pages/signup.dart';
 
-void main() {
-  runApp(IVehicle());
-}
+void main() => runApp(
+      MultiProvider(
+        providers: [
+          ChangeNotifierProvider(create: (_) => ThemeModel()),
+        ],
+        child: IVehicle(),
+      ),
+    );
 
 class IVehicle extends StatelessWidget {
   @override
