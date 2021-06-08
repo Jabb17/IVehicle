@@ -22,7 +22,6 @@ class SignInPageState extends State<SignInPage> {
     super.dispose();
   }
 
-  // ignore: missing_return
   Future<List> obtenerUsuario() async {
     var url = "https://ivehicleproject.000webhostapp.com/login.php";
     final response = await http.post(Uri.parse(url), body: {

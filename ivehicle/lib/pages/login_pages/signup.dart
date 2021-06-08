@@ -23,7 +23,6 @@ class SignUpPageState extends State<SignUpPage> {
     super.dispose();
   }
 
-  // ignore: missing_return
   Future<List> obtenerUsuario() async {
     var url = "https://ivehicleproject.000webhostapp.com/registration.php";
     final response = await http.post(Uri.parse(url), body: {
