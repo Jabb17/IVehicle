@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:ivehicle/pages/settings.dart';
 import 'package:provider/provider.dart';
+import 'pages/login_pages/login.dart';
 import 'pages/login_pages/register.dart';
-import 'pages/login_pages/signin.dart';
-import 'pages/login_pages/signup.dart';
+/*import 'pages/login_pages/signin.dart';
+import 'pages/login_pages/signup.dart';*/
 
 void main() => runApp(
       MultiProvider(
@@ -53,7 +54,8 @@ class _MyHomePageState extends State<MyHomePage> {
                   onPressed: () {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => SignInPage()),
+                      // TODO ORIGINAL IS SIGN IN PAGE
+                      MaterialPageRoute(builder: (context) => Login()),
                     );
                   },
                   color: Colors.blue,

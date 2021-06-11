@@ -1,6 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
+import 'package:ivehicle/pages/home_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:http/http.dart' as http;
 
@@ -42,8 +43,8 @@ class _LoginState extends State<Login> {
   void login() async {
     if (_key.currentState.validate()) {
       if (_key.currentState.validate()) {
-        var uri = Uri.parse(
-            "https://mesprojetsapp.000webhostapp.com/tutoyoutube/file.php");
+        var uri =
+            Uri.parse("https://ivehicleproject.000webhostapp.com/file.php");
         final response = await http.post(uri,
             body: {"user": username.text, "type": '2', "pass": password.text});
 
@@ -54,7 +55,6 @@ class _LoginState extends State<Login> {
             print(data['info']);
             saveSession(data['info'], 1);
             getSession();
-            // Navigator.push(context, MaterialPageRoute(builder: (context)=>Admin(user: data['info'],) ) );
           } else {
             message(data['statut']);
             print(data['user']);
@@ -76,7 +76,6 @@ class _LoginState extends State<Login> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     getSession();
   }
@@ -91,82 +90,87 @@ class _LoginState extends State<Login> {
         return Scaffold(
           backgroundColor: Color.fromRGBO(44, 44, 44, 0.6),
           body: Center(
-              child: SingleChildScrollView(
-                  child: Padding(
-            padding: EdgeInsets.all(10),
-            child: Form(
-                key: _key,
-                child: Column(
-                  children: <Widget>[
-                    Image(image: AssetImage("images/login.PNG")),
-                    Card(
-                      child: TextFormField(
-                        controller: username,
-                        validator: (e) =>
-                            e.isEmpty ? "Veillez spécifier ce champ" : null,
-                        style: TextStyle(fontSize: 20),
-                        decoration: InputDecoration(
-                            contentPadding: EdgeInsets.all(20),
-                            prefixIcon: Padding(
-                              padding: EdgeInsets.only(left: 20, right: 15),
-                              child: Icon(
-                                Icons.person,
-                                size: 30,
-                              ),
-                            ),
-                            labelText: "Login",
-                            hintText: "nom d'utilisateur"),
-                        keyboardType: TextInputType.text,
+            child: SingleChildScrollView(
+              child: Padding(
+                padding: EdgeInsets.all(10),
+                child: Form(
+                  key: _key,
+                  child: Column(
+                    children: <Widget>[
+                      Image.network(
+                        "https://ivehicleproject.000webhostapp.com/imgs/logo_Alex.png",
+                        height: 250,
                       ),
-                    ),
-                    Card(
-                      child: TextFormField(
-                        controller: password,
-                        validator: (e) =>
-                            e.isEmpty ? "Veillez spécifier ce champ" : null,
-                        style: TextStyle(fontSize: 20),
-                        obscureText: true,
-                        decoration: InputDecoration(
-                            contentPadding: EdgeInsets.all(20),
-                            prefixIcon: Padding(
-                              padding: EdgeInsets.only(left: 20, right: 15),
-                              child: Icon(
-                                Icons.phonelink_lock,
-                                size: 30,
+                      Card(
+                        child: TextFormField(
+                          controller: username,
+                          validator: (e) =>
+                              e.isEmpty ? "You must write something!" : null,
+                          style: TextStyle(fontSize: 20),
+                          decoration: InputDecoration(
+                              contentPadding: EdgeInsets.all(20),
+                              prefixIcon: Padding(
+                                padding: EdgeInsets.only(left: 20, right: 15),
+                                child: Icon(
+                                  Icons.person,
+                                  size: 30,
+                                ),
                               ),
-                            ),
-                            labelText: "Password",
-                            hintText: "votre mot de passe"),
-                        keyboardType: TextInputType.text,
-                      ),
-                    ),
-                    FlatButton(
-                        onPressed: getSession,
-                        child: Text(
-                          "Forgot password",
-                          style: TextStyle(
-                              color: Colors.lightBlueAccent,
-                              fontWeight: FontWeight.bold),
-                        )),
-                    SizedBox(
-                      height: 44,
-                      child: RaisedButton(
-                        onPressed: login,
-                        color: Colors.lightBlueAccent,
-                        child: Text(
-                          "Login",
-                          style: TextStyle(fontSize: 19, color: Colors.white),
+                              labelText: "Username"),
+                          keyboardType: TextInputType.text,
                         ),
                       ),
-                    ),
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: <Widget>[
-                        Text(
-                          "Avez-vous un compte? ",
-                          style: TextStyle(color: Colors.white),
+                      Card(
+                        child: TextFormField(
+                          controller: password,
+                          validator: (e) =>
+                              e.isEmpty ? "You must write something!" : null,
+                          style: TextStyle(fontSize: 20),
+                          obscureText: true,
+                          decoration: InputDecoration(
+                              contentPadding: EdgeInsets.all(20),
+                              prefixIcon: Padding(
+                                padding: EdgeInsets.only(left: 20, right: 15),
+                                child: Icon(
+                                  Icons.lock,
+                                  size: 30,
+                                ),
+                              ),
+                              labelText: "Password"),
+                          keyboardType: TextInputType.text,
                         ),
-                        FlatButton(
+                      ),
+                      SizedBox(
+                        height: 5,
+                      ),
+                      SizedBox(
+                        height: 44,
+                        // ignore: deprecated_member_use
+                        child: RaisedButton(
+                          onPressed: () {
+                            login();
+                            Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                    builder: (context) => HomePage()));
+                          },
+                          //onPressed: login,
+                          color: Colors.lightBlueAccent,
+                          child: Text(
+                            "Login",
+                            style: TextStyle(fontSize: 19, color: Colors.white),
+                          ),
+                        ),
+                      ),
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: <Widget>[
+                          Text(
+                            "You don't have an account? ",
+                            style: TextStyle(color: Colors.white),
+                          ),
+                          // ignore: deprecated_member_use
+                          FlatButton(
                             onPressed: () {
                               Navigator.push(
                                   context,
@@ -178,12 +182,16 @@ class _LoginState extends State<Login> {
                               style: TextStyle(
                                   color: Colors.lightBlueAccent,
                                   fontWeight: FontWeight.bold),
-                            )),
-                      ],
-                    )
-                  ],
-                )),
-          ))),
+                            ),
+                          ),
+                        ],
+                      )
+                    ],
+                  ),
+                ),
+              ),
+            ),
+          ),
         );
       default:
     }

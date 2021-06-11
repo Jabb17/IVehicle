@@ -32,9 +32,9 @@ class _RegisterState extends State<Register> {
   void register() async {
     if (password.text == passwordc.text) {
       if (_key.currentState.validate()) {
-        print("en attente");
-        var uri = Uri.parse(
-            "https://mesprojetsapp.000webhostapp.com/tutoyoutube/file.php");
+        print("User validated");
+        var uri =
+            Uri.parse("https://ivehicleproject.000webhostapp.com/file.php");
         final response = await http.post(uri, body: {
           "user": username.text,
           "email": email.text,
@@ -68,15 +68,15 @@ class _RegisterState extends State<Register> {
             key: _key,
             child: Column(
               children: <Widget>[
-                Image(
-                  image: AssetImage("images/add_user.png"),
-                  height: 200,
+                Image.network(
+                  "https://ivehicleproject.000webhostapp.com/imgs/logo_Alex.png",
+                  height: 100,
                 ),
                 Card(
                   child: TextFormField(
                     controller: username,
                     validator: (e) =>
-                        e.isEmpty ? "Veillez spécifier ce champ" : null,
+                        e.isEmpty ? "You must write something!" : null,
                     style: TextStyle(fontSize: 20),
                     decoration: InputDecoration(
                         contentPadding: EdgeInsets.all(20),
@@ -87,8 +87,7 @@ class _RegisterState extends State<Register> {
                             size: 30,
                           ),
                         ),
-                        labelText: "Nom d'utilisateur",
-                        hintText: "nom d'utilisateur"),
+                        labelText: "Username"),
                     keyboardType: TextInputType.text,
                   ),
                 ),
@@ -96,7 +95,7 @@ class _RegisterState extends State<Register> {
                   child: TextFormField(
                     controller: age,
                     validator: (e) =>
-                        e.isEmpty ? "Veillez spécifier ce champ" : null,
+                        e.isEmpty ? "You must write something!" : null,
                     style: TextStyle(fontSize: 20),
                     decoration: InputDecoration(
                         contentPadding: EdgeInsets.all(20),
@@ -107,8 +106,7 @@ class _RegisterState extends State<Register> {
                             size: 30,
                           ),
                         ),
-                        labelText: "Age",
-                        hintText: "Votre age"),
+                        labelText: "Age"),
                     keyboardType: TextInputType.text,
                   ),
                 ),
@@ -116,7 +114,7 @@ class _RegisterState extends State<Register> {
                   child: TextFormField(
                     controller: email,
                     validator: (e) =>
-                        e.isEmpty ? "Veillez spécifier ce champ" : null,
+                        e.isEmpty ? "You must write something!" : null,
                     style: TextStyle(fontSize: 20),
                     decoration: InputDecoration(
                         contentPadding: EdgeInsets.all(20),
@@ -127,8 +125,7 @@ class _RegisterState extends State<Register> {
                             size: 30,
                           ),
                         ),
-                        labelText: "Email",
-                        hintText: "Votre email"),
+                        labelText: "Email"),
                     keyboardType: TextInputType.text,
                   ),
                 ),
@@ -136,7 +133,7 @@ class _RegisterState extends State<Register> {
                   child: TextFormField(
                     controller: password,
                     validator: (e) =>
-                        e.isEmpty ? "Veillez spécifier ce champ" : null,
+                        e.isEmpty ? "You must write something!" : null,
                     style: TextStyle(fontSize: 20),
                     obscureText: true,
                     decoration: InputDecoration(
@@ -148,8 +145,7 @@ class _RegisterState extends State<Register> {
                             size: 30,
                           ),
                         ),
-                        labelText: "Password",
-                        hintText: "votre mot de passe"),
+                        labelText: "Password"),
                     keyboardType: TextInputType.text,
                   ),
                 ),
@@ -157,7 +153,7 @@ class _RegisterState extends State<Register> {
                   child: TextFormField(
                     controller: passwordc,
                     validator: (e) =>
-                        e.isEmpty ? "Veillez spécifier ce champ" : null,
+                        e.isEmpty ? "You must write something!" : null,
                     style: TextStyle(fontSize: 20),
                     obscureText: true,
                     decoration: InputDecoration(
@@ -169,13 +165,13 @@ class _RegisterState extends State<Register> {
                             size: 30,
                           ),
                         ),
-                        labelText: "Password confirm",
-                        hintText: "votre mot de passe"),
+                        labelText: "Password confirm"),
                     keyboardType: TextInputType.text,
                   ),
                 ),
                 SizedBox(
                   height: 44,
+                  // ignore: deprecated_member_use
                   child: RaisedButton(
                     onPressed: register,
                     color: Colors.lightBlueAccent,
@@ -189,9 +185,10 @@ class _RegisterState extends State<Register> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
                     Text(
-                      "Avez-vous un compte? ",
+                      "Do you have an account? ",
                       style: TextStyle(color: Colors.white),
                     ),
+                    // ignore: deprecated_member_use
                     FlatButton(
                         onPressed: () {
                           Navigator.push(context,

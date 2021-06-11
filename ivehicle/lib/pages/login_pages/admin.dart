@@ -13,7 +13,7 @@ class _AdminState extends State<Admin> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-          title: Text("Administrateur"),
+          title: Text("Administrator"),
           actions: <Widget>[
             IconButton(icon: Icon(Icons.power), onPressed: widget.signOut)
           ],
