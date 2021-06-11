@@ -25,6 +25,7 @@ dependencies:
   crypto:
   flutter_launcher_icons: ^0.9.0
   mysql1: ^0.19.2
+  fluttertoast: ^8.0.7
 
 flutter_icons:
   image_path: "assets/icon/logo_Alex.png"

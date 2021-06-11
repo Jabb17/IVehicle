@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ivehicle/pages/settings.dart';
 import 'package:provider/provider.dart';
+import 'pages/login_pages/register.dart';
 import 'pages/login_pages/signin.dart';
 import 'pages/login_pages/signup.dart';
 
@@ -68,7 +69,8 @@ class _MyHomePageState extends State<MyHomePage> {
                   onPressed: () {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => SignUpPage()),
+                      // TODO ORIGINAL IS SIGN UP PAGE
+                      MaterialPageRoute(builder: (context) => Register()),
                     );
                   },
                   color: Colors.blue,
