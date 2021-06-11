@@ -61,135 +61,135 @@ class _RegisterState extends State<Register> {
     return Scaffold(
       backgroundColor: Color.fromRGBO(44, 44, 44, 0.6),
       body: Center(
-          child: SingleChildScrollView(
-              child: Padding(
-        padding: EdgeInsets.all(10),
-        child: Form(
-            key: _key,
-            child: Column(
-              children: <Widget>[
-                Image.network(
-                  "https://ivehicleproject.000webhostapp.com/imgs/logo_Alex.png",
-                  height: 100,
-                ),
-                Card(
-                  child: TextFormField(
-                    controller: username,
-                    validator: (e) =>
-                        e.isEmpty ? "You must write something!" : null,
-                    style: TextStyle(fontSize: 20),
-                    decoration: InputDecoration(
-                        contentPadding: EdgeInsets.all(20),
-                        prefixIcon: Padding(
-                          padding: EdgeInsets.only(left: 20, right: 15),
-                          child: Icon(
-                            Icons.person,
-                            size: 30,
-                          ),
-                        ),
-                        labelText: "Username"),
-                    keyboardType: TextInputType.text,
+        child: SingleChildScrollView(
+          child: Padding(
+            padding: EdgeInsets.all(10),
+            child: Form(
+              key: _key,
+              child: Column(
+                children: <Widget>[
+                  Image.network(
+                    "https://ivehicleproject.000webhostapp.com/imgs/logo_Alex.png",
+                    height: 100,
                   ),
-                ),
-                Card(
-                  child: TextFormField(
-                    controller: age,
-                    validator: (e) =>
-                        e.isEmpty ? "You must write something!" : null,
-                    style: TextStyle(fontSize: 20),
-                    decoration: InputDecoration(
-                        contentPadding: EdgeInsets.all(20),
-                        prefixIcon: Padding(
-                          padding: EdgeInsets.only(left: 20, right: 15),
-                          child: Icon(
-                            Icons.person,
-                            size: 30,
+                  Card(
+                    child: TextFormField(
+                      controller: username,
+                      validator: (e) =>
+                          e.isEmpty ? "You must write something!" : null,
+                      style: TextStyle(fontSize: 20),
+                      decoration: InputDecoration(
+                          contentPadding: EdgeInsets.all(20),
+                          prefixIcon: Padding(
+                            padding: EdgeInsets.only(left: 20, right: 15),
+                            child: Icon(
+                              Icons.person,
+                              size: 30,
+                            ),
                           ),
-                        ),
-                        labelText: "Age"),
-                    keyboardType: TextInputType.text,
-                  ),
-                ),
-                Card(
-                  child: TextFormField(
-                    controller: email,
-                    validator: (e) =>
-                        e.isEmpty ? "You must write something!" : null,
-                    style: TextStyle(fontSize: 20),
-                    decoration: InputDecoration(
-                        contentPadding: EdgeInsets.all(20),
-                        prefixIcon: Padding(
-                          padding: EdgeInsets.only(left: 20, right: 15),
-                          child: Icon(
-                            Icons.person,
-                            size: 30,
-                          ),
-                        ),
-                        labelText: "Email"),
-                    keyboardType: TextInputType.text,
-                  ),
-                ),
-                Card(
-                  child: TextFormField(
-                    controller: password,
-                    validator: (e) =>
-                        e.isEmpty ? "You must write something!" : null,
-                    style: TextStyle(fontSize: 20),
-                    obscureText: true,
-                    decoration: InputDecoration(
-                        contentPadding: EdgeInsets.all(20),
-                        prefixIcon: Padding(
-                          padding: EdgeInsets.only(left: 20, right: 15),
-                          child: Icon(
-                            Icons.phonelink_lock,
-                            size: 30,
-                          ),
-                        ),
-                        labelText: "Password"),
-                    keyboardType: TextInputType.text,
-                  ),
-                ),
-                Card(
-                  child: TextFormField(
-                    controller: passwordc,
-                    validator: (e) =>
-                        e.isEmpty ? "You must write something!" : null,
-                    style: TextStyle(fontSize: 20),
-                    obscureText: true,
-                    decoration: InputDecoration(
-                        contentPadding: EdgeInsets.all(20),
-                        prefixIcon: Padding(
-                          padding: EdgeInsets.only(left: 20, right: 15),
-                          child: Icon(
-                            Icons.phonelink_lock,
-                            size: 30,
-                          ),
-                        ),
-                        labelText: "Password confirm"),
-                    keyboardType: TextInputType.text,
-                  ),
-                ),
-                SizedBox(
-                  height: 44,
-                  // ignore: deprecated_member_use
-                  child: RaisedButton(
-                    onPressed: register,
-                    color: Colors.lightBlueAccent,
-                    child: Text(
-                      "Register",
-                      style: TextStyle(fontSize: 19, color: Colors.white),
+                          labelText: "Username"),
+                      keyboardType: TextInputType.text,
                     ),
                   ),
-                ),
-                Row(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: <Widget>[
-                    Text(
-                      "Do you have an account? ",
-                      style: TextStyle(color: Colors.white),
+                  Card(
+                    child: TextFormField(
+                      controller: age,
+                      validator: (e) =>
+                          e.isEmpty ? "You must write something!" : null,
+                      style: TextStyle(fontSize: 20),
+                      decoration: InputDecoration(
+                          contentPadding: EdgeInsets.all(20),
+                          prefixIcon: Padding(
+                            padding: EdgeInsets.only(left: 20, right: 15),
+                            child: Icon(
+                              Icons.person,
+                              size: 30,
+                            ),
+                          ),
+                          labelText: "Age"),
+                      keyboardType: TextInputType.text,
                     ),
+                  ),
+                  Card(
+                    child: TextFormField(
+                      controller: email,
+                      validator: (e) =>
+                          e.isEmpty ? "You must write something!" : null,
+                      style: TextStyle(fontSize: 20),
+                      decoration: InputDecoration(
+                          contentPadding: EdgeInsets.all(20),
+                          prefixIcon: Padding(
+                            padding: EdgeInsets.only(left: 20, right: 15),
+                            child: Icon(
+                              Icons.person,
+                              size: 30,
+                            ),
+                          ),
+                          labelText: "Email"),
+                      keyboardType: TextInputType.text,
+                    ),
+                  ),
+                  Card(
+                    child: TextFormField(
+                      controller: password,
+                      validator: (e) =>
+                          e.isEmpty ? "You must write something!" : null,
+                      style: TextStyle(fontSize: 20),
+                      obscureText: true,
+                      decoration: InputDecoration(
+                          contentPadding: EdgeInsets.all(20),
+                          prefixIcon: Padding(
+                            padding: EdgeInsets.only(left: 20, right: 15),
+                            child: Icon(
+                              Icons.phonelink_lock,
+                              size: 30,
+                            ),
+                          ),
+                          labelText: "Password"),
+                      keyboardType: TextInputType.text,
+                    ),
+                  ),
+                  Card(
+                    child: TextFormField(
+                      controller: passwordc,
+                      validator: (e) =>
+                          e.isEmpty ? "You must write something!" : null,
+                      style: TextStyle(fontSize: 20),
+                      obscureText: true,
+                      decoration: InputDecoration(
+                          contentPadding: EdgeInsets.all(20),
+                          prefixIcon: Padding(
+                            padding: EdgeInsets.only(left: 20, right: 15),
+                            child: Icon(
+                              Icons.phonelink_lock,
+                              size: 30,
+                            ),
+                          ),
+                          labelText: "Password confirm"),
+                      keyboardType: TextInputType.text,
+                    ),
+                  ),
+                  SizedBox(
+                    height: 44,
                     // ignore: deprecated_member_use
-                    FlatButton(
+                    child: RaisedButton(
+                      onPressed: register,
+                      color: Colors.lightBlueAccent,
+                      child: Text(
+                        "Register",
+                        style: TextStyle(fontSize: 19, color: Colors.white),
+                      ),
+                    ),
+                  ),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: <Widget>[
+                      Text(
+                        "Do you have an account? ",
+                        style: TextStyle(color: Colors.white),
+                      ),
+                      // ignore: deprecated_member_use
+                      FlatButton(
                         onPressed: () {
                           Navigator.push(context,
                               MaterialPageRoute(builder: (context) => Login()));
@@ -199,12 +199,16 @@ class _RegisterState extends State<Register> {
                           style: TextStyle(
                               color: Colors.lightBlueAccent,
                               fontWeight: FontWeight.bold),
-                        )),
-                  ],
-                )
-              ],
-            )),
-      ))),
+                        ),
+                      ),
+                    ],
+                  )
+                ],
+              ),
+            ),
+          ),
+        ),
+      ),
     );
   }
 }
