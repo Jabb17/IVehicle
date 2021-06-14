@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/material.dart';
@@ -8,6 +9,7 @@ import 'package:ivehicle/pages/comment_screen.dart';
 import 'package:ivehicle/widgets/drawer.dart';
 import 'package:favorite_button/favorite_button.dart';
 import 'package:toast/toast.dart';
+import 'package:http/http.dart' as http;
 import 'package:url_launcher/url_launcher.dart';
 
 import 'search_gallery/GalleryPage.dart';
@@ -628,126 +630,253 @@ class CreationOption extends StatefulWidget {
 }
 
 class _CreationOptionState extends State<CreationOption> {
-  File _image;
+  Future<File> file;
+  String status = '';
+  String base64Image;
+  File tmpFile;
+  String error = 'Error';
 
-  // ignore: unused_element
-  _imgFromCamera() async {
-    File image = await ImagePicker.pickImage(
-        source: ImageSource.camera, imageQuality: 50);
-
+  chooseImage() {
     setState(() {
-      _image = image;
+      file = ImagePicker.pickImage(source: ImageSource.gallery);
+    });
+    setStatus('');
+  }
+
+  setStatus(String message) {
+    setState(() {
+      status = message;
     });
   }
 
-  _imgFromGallery() async {
-    File image = await ImagePicker.pickImage(
-        source: ImageSource.gallery, imageQuality: 50);
+  uploadImg() {
+    if (null == tmpFile) {
+      setStatus(error);
+      return;
+    }
 
-    setState(() {
-      _image = image;
+    String fileName = tmpFile.path.split('/').last;
+
+    upload(fileName);
+  }
+
+  upload(String fileName) {
+    var uri =
+        Uri.parse('https://ivehicleproject.000webhostapp.com/uploadData.php');
+    http.post(uri, body: {
+      "image": base64Image,
+      "name": fileName,
+    }).then((result) {
+      setStatus(result.statusCode == 200 ? result.body : error);
+    }).catchError((error) {
+      setStatus(error);
     });
-  }
-
-  void _showPicker(context) {
-    showModalBottomSheet(
-      context: context,
-      builder: (BuildContext bc) {
-        return SafeArea(
-          child: Container(
-            child: new Wrap(
-              children: <Widget>[
-                new ListTile(
-                  leading: new Icon(Icons.photo_library),
-                  title: new Text('Photo Library'),
-                  onTap: () {
-                    _imgFromGallery();
-                    Navigator.of(context).pop();
-                  },
-                ),
-              ],
-            ),
-          ),
-        );
-      },
-    );
-  }
-
-  void initState() {
-    super.initState();
-    print('Calling initState for Creation');
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Column(
-        children: <Widget>[
-          SizedBox(
-            height: 150,
-          ),
-          Center(
-            child: GestureDetector(
-              onTap: () {
-                _showPicker(context);
-              },
-              child: CircleAvatar(
-                radius: 55,
-                backgroundColor: Colors.blue,
-                child: _image != null
-                    ? ClipRRect(
-                        borderRadius: BorderRadius.circular(50),
-                        child: Image.file(
-                          _image,
-                          width: 100,
-                          height: 100,
-                          fit: BoxFit.fitHeight,
-                        ),
-                      )
-                    : Container(
-                        decoration: BoxDecoration(
-                          color: Colors.grey[200],
-                          borderRadius: BorderRadius.circular(50),
-                        ),
-                        width: 100,
-                        height: 100,
-                        child: Icon(
-                          Icons.camera_alt,
-                          size: 40,
-                          color: Colors.grey[800],
-                        ),
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            FutureBuilder<File>(
+              future: file,
+              builder: (BuildContext context, AsyncSnapshot<File> snapshot) {
+                if (snapshot.connectionState == ConnectionState.done &&
+                    null != snapshot.data) {
+                  tmpFile = snapshot.data;
+                  base64Image = base64Encode(snapshot.data.readAsBytesSync());
+                  return Container(
+                    margin: EdgeInsets.all(15),
+                    child: Material(
+                      elevation: 3.0,
+                      child: Image.file(
+                        snapshot.data,
+                        fit: BoxFit.fill,
                       ),
-              ),
+                    ),
+                  );
+                } else if (null != snapshot.error) {
+                  return const Text(
+                    'Error!',
+                    textAlign: TextAlign.center,
+                  );
+                } else {
+                  return Container(
+                    margin: EdgeInsets.all(15),
+                    child: Material(
+                      elevation: 3.0,
+                      child: Stack(
+                        alignment: Alignment.topRight,
+                        children: [
+                          // TODO ADD IMAGE
+                          Container(
+                            child: Image.network(
+                                "https://ivehicleproject.000webhostapp.com/imgs/img_icon.png"),
+                          ),
+                          InkWell(
+                            onTap: () {
+                              chooseImage();
+                            },
+                            child: Padding(
+                              padding: EdgeInsets.only(top: 10.0, right: 10.0),
+                              child: Icon(
+                                Icons.edit,
+                                size: 30.0,
+                                color: Colors.black54,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  );
+                }
+              },
             ),
-          ),
-          SizedBox(
-            height: 100,
-            child: Center(
-              // ignore: deprecated_member_use
-              child: FlatButton(
-                splashColor: Colors.blueAccent,
-                color: Colors.blue,
-                textColor: Colors.white,
+            SizedBox(
+              height: 10.0,
+            ),
+            Container(
+              height: 50.0,
+              width: 360.0,
+              child: RaisedButton(
                 child: Text(
-                  'PUBLISH PICTURE',
+                  'Upload Image',
+                  style: TextStyle(color: Colors.white, fontSize: 18.0),
                 ),
+                color: Colors.blue,
                 onPressed: () {
-                  if (_image == null) {
-                    Toast.show(
-                        "PLEASE SELECT AN IMAGE OF YOUR GALLERY", context,
-                        duration: Toast.LENGTH_SHORT, gravity: Toast.BOTTOM);
-                  } else {
-                    Toast.show("PUBLISHED SUCCESFULLY!", context,
-                        duration: Toast.LENGTH_SHORT, gravity: Toast.BOTTOM);
-                  }
+                  uploadImg();
                 },
               ),
             ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }
+  // File _image;
+
+  // // ignore: unused_element
+  // _imgFromCamera() async {
+  //   File image = await ImagePicker.pickImage(
+  //       source: ImageSource.camera, imageQuality: 50);
+
+  //   setState(() {
+  //     _image = image;
+  //   });
+  // }
+
+  // _imgFromGallery() async {
+  //   File image = await ImagePicker.pickImage(
+  //       source: ImageSource.gallery, imageQuality: 50);
+
+  //   setState(() {
+  //     _image = image;
+  //   });
+  // }
+
+  // void _showPicker(context) {
+  //   showModalBottomSheet(
+  //     context: context,
+  //     builder: (BuildContext bc) {
+  //       return SafeArea(
+  //         child: Container(
+  //           child: new Wrap(
+  //             children: <Widget>[
+  //               new ListTile(
+  //                 leading: new Icon(Icons.photo_library),
+  //                 title: new Text('Photo Library'),
+  //                 onTap: () {
+  //                   _imgFromGallery();
+  //                   Navigator.of(context).pop();
+  //                 },
+  //               ),
+  //             ],
+  //           ),
+  //         ),
+  //       );
+  //     },
+  //   );
+  // }
+
+  // void initState() {
+  //   super.initState();
+  //   print('Calling initState for Creation');
+  // }
+
+  // @override
+  // Widget build(BuildContext context) {
+  //   return Scaffold(
+  //     body: Column(
+  //       children: <Widget>[
+  //         SizedBox(
+  //           height: 150,
+  //         ),
+  //         Center(
+  //           child: GestureDetector(
+  //             onTap: () {
+  //               _showPicker(context);
+  //             },
+  //             child: CircleAvatar(
+  //               radius: 55,
+  //               backgroundColor: Colors.blue,
+  //               child: _image != null
+  //                   ? ClipRRect(
+  //                       borderRadius: BorderRadius.circular(50),
+  //                       child: Image.file(
+  //                         _image,
+  //                         width: 100,
+  //                         height: 100,
+  //                         fit: BoxFit.fitHeight,
+  //                       ),
+  //                     )
+  //                   : Container(
+  //                       decoration: BoxDecoration(
+  //                         color: Colors.grey[200],
+  //                         borderRadius: BorderRadius.circular(50),
+  //                       ),
+  //                       width: 100,
+  //                       height: 100,
+  //                       child: Icon(
+  //                         Icons.camera_alt,
+  //                         size: 40,
+  //                         color: Colors.grey[800],
+  //                       ),
+  //                     ),
+  //             ),
+  //           ),
+  //         ),
+  //         SizedBox(
+  //           height: 100,
+  //           child: Center(
+  //             // ignore: deprecated_member_use
+  //             child: FlatButton(
+  //               splashColor: Colors.blueAccent,
+  //               color: Colors.blue,
+  //               textColor: Colors.white,
+  //               child: Text(
+  //                 'PUBLISH PICTURE',
+  //               ),
+  //               onPressed: () {
+  //                 if (_image == null) {
+  //                   Toast.show(
+  //                       "PLEASE SELECT AN IMAGE OF YOUR GALLERY", context,
+  //                       duration: Toast.LENGTH_SHORT, gravity: Toast.BOTTOM);
+  //                 } else {
+  //                   Toast.show("PUBLISHED SUCCESFULLY!", context,
+  //                       duration: Toast.LENGTH_SHORT, gravity: Toast.BOTTOM);
+  //                 }
+  //               },
+  //             ),
+  //           ),
+  //         ),
+  //       ],
+  //     ),
+  //   );
+  // }
 }
 
 class GalleryOption extends StatefulWidget {
